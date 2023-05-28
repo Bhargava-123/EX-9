@@ -5,6 +5,10 @@
 To write a python program for creating Chat using TCP Sockets Links.
 
 ## ALGORITHM:
+Import the necessary modules in python
+Create a socket connection to using the socket module.
+Send message to the client and receive the message from the client using the Socket module in server
+Send and receive the message using the send function in socket.
 ## Client:
 Import the necessary modules in python
 Create a socket connection to using the socket module.
